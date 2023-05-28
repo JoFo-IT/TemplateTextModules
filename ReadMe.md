@@ -14,6 +14,7 @@ Integrating text snippets into your projects is easy. Simply copy and paste the 
 | Name	| Info text	| Language 	| Link 	|
 | --- 	| --- 		| --- 		| --- 	|
 | AI disclaimer for text | This text has been AI-enhanced for improved readability and comprehension, but the author retains full responsibility for its content and accuracy. | EN, DE | [AIDisclaimerForText.md](./Disclaimer/AIDisclaimerForText.md)
+| Contribute to the collection | We welcome contributions to this Project. Please don't hesitate to add them. | EN | [ContributeToTheCollection.md](./Git/ContributeToTheCollection.md)
 
 ## Contribute to the collection
 We welcome contributions to this collection of text snippets. If you have useful text snippets that could benefit other projects, please don't hesitate to add them.
