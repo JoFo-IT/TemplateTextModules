@@ -1,6 +1,6 @@
 # Template Text Modules
 
-This project is a comprehensive collection of text snippets that can be reused and applied across multiple projects. These text snippets have been carefully designed to simplify the process of creating and writing content.
+This project is part of the [JoFo-IT/Templates](https://github.com/JoFo-IT/Template) project and serves as a comprehensive collection of text snippets that can be reused and applied across multiple projects. These text snippets have been carefully designed to simplify the process of creating and writing content.
 
 ## Why use text snippets?
 There are many benefits to using text snippets. By using predefined blocks of text, repetitive information can be inserted quickly and efficiently, saving time and minimising typing errors. In addition, consistent use of text snippets ensures a consistent and professional look and feel across all projects.
